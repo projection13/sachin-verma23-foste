@@ -1,0 +1,148 @@
+@media only screen and (max-width:575px){
+	.portfolio-heading1{
+		font-size:26px;
+		margin:50px 0px 20px 40px;		
+	}
+	.portfolio-heading{
+		font-size:23px;
+		margin-left:0px;
+	}
+	.advisor-section,.about-us-wrapper,.consulting-wrapper,.client-wrapper{
+		padding:0px;
+	}
+	.image-wrapper{
+		display:none;
+	}
+	.advisor-box,.advisor-box-active{
+		margin-bottom:40px;
+	}
+	.image-8{
+		margin-bottom:50px;
+	}
+	.heading::after{
+		display:none;
+	}
+	.portfolio-heading::after{
+		display:none;
+	}
+	.heading{
+		font-size:23px;
+		margin-top:100px ;
+		margin-bottom:20px ;
+	}
+	.banner-heading{
+		font-size:23px;
+	}
+	.banner-col-1{
+		padding:20px;
+	}
+	.portfolio-content{	
+		margin:0px 0px 55px 0px;
+	}
+	.consulting-content{
+		margin:0px 0px 30px 0px;		
+	}
+	.image-15{
+		margin-top: 40px;
+	}
+	#demo1 .carousel-item{
+		height:1000px;
+	}
+	.footer-wrapper{
+		padding:100px 0px 50px 0px;
+	}
+	.quote-btn{ 
+		padding:13px 37px;
+		margin-top:1000px;
+	}
+	.portfolio-2-wrapper{
+		height:380px
+	}
+	.image-1{
+		width:100%;
+		height:auto;
+	}
+}
+@media only screen and (min-width:576px) and (max-width:768px){
+	.banner-heading{
+		font-size:30px;
+	}
+	.advisor-section,.about-us-wrapper,.consulting-wrapper,.client-wrapper,.footer-wrapper{
+		padding:0px;
+	}
+	.advisor-box,.advisor-box-active{
+		margin-bottom:40px;
+	}
+	.image-wrapper{
+		display:none;
+	}
+	.banner-col-1{
+		padding:20px;
+	}
+	.portfolio-heading1{
+		font-size:40px;
+		margin:100px 0px 20px 40px;		
+	}
+	.portfolio-content{	
+		margin:0px 0px 55px 0px;
+	}
+	.quote-btn{
+		padding:13px 37px;
+		margin-top:1000px;
+	}
+	.portfolio-2-wrapper{
+		height:430px
+	}
+	.heading{
+		font-size:30px;
+		margin-top:50px;
+	}
+	.image-8{
+		margin-bottom:50px;
+	}
+	.portfolio-heading{
+		font-size:30px;
+		margin-left:0px;
+	}
+	.consulting-content{
+		margin:0px 0px 30px 0px;		
+	}
+	#demo1 .carousel-item{
+		height:1020px;
+	}
+	.footer-wrapper{
+		padding:100px 0px 50px 0px;
+	}
+	.image-1{
+		width:100%;
+		height:auto;
+	}
+}
+@media only screen and (min-width:769px) and  (max-width:992px){
+	.image-16{
+		margin-bottom:50px;
+	}
+	#demo1 .carousel-item{
+		height:1170px;
+	}
+	.portfolio-heading1{
+		font-size:40px;
+		margin:100px 0px 20px 40px;		
+	}
+	.portfolio-content{	
+		margin:0px 0px 55px 0px;
+	}
+	.advisor-section,.about-us-wrapper,.consulting-wrapper,.footer-wrapper{
+		padding:0px;
+	}
+	.footer-wrapper{
+		padding:100px 0px 50px 0px;
+	}
+	.advisor-box,.advisor-box-active{
+		margin-bottom:40px;
+	}
+	.image-1{
+		width:100%;
+		height:auto;
+	}
+}
